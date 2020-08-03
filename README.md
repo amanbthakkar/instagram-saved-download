@@ -12,3 +12,6 @@ Since there it involves uploading the chromedriver as well as the code, I need t
 2. No attention paid to code structure, only functionality :stuck_out_tongue:
 3. Does not work if the post is a video, but that part is very easy to add once you get how this works.
 
+## Video of its function
+[Here](https://www.reddit.com/r/Python/comments/gs54y9/made_a_telegram_bot_that_logs_into_my_instagram/?utm_source=share&utm_medium=web2x
+)
